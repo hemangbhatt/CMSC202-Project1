@@ -1,5 +1,5 @@
 /*****************************************
- ** File:    sched.cpp
+ ** File:    schedule.cpp
  ** Project: CMSC 202 Project 1, Spring 2016
  ** Author:  Hemang Bhatt
  ** Date:    02/20/15
