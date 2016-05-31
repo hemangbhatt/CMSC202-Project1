@@ -1,0 +1,122 @@
+CMSC202 Project 1 Gradesheet 
+-----------------------------------------------------------------
+Student ID: hb6
+
+Max grade: 100 
+Raw grade: 100
+Late penalty: 0
+Total grade: 100
+
+(Total grade = Raw grade - Late penalty)
+
+
+General comments:
+
+
+-----------------------------------------------------------------
+I. Critical Errors
+
+   None
+
+   No submission (skip rest) 0
+
+   Program does not compile or does not run, or runs but does not
+      produce output even after minor tweaks.  Grading based on effort.
+
+      Removing one or two major bugs will fix this project. (40-50)
+      Significant progress made, but major rewrite is necessary. (30-40)
+      Not much progress made. (10-30)
+      Barely started coding. (0-10)
+
+      Score = 
+
+      Rest of grade sheet is skipped.
+
+   Other: 
+
+
+
+-----------------------------------------------------------------
+II. Submission Errors
+
+   Did not submit sched.h -1
+   Additional tweaking required for compilation  -3
+
+   Other submission errors: (specify)
+
+
+-----------------------------------------------------------------
+III. Correctness
+
+
+   A. Test #1. Compiling sched.cpp with sched.h as submitted
+      No errors
+      Program does not compile or run even after tweaking -20
+      Program does not produce output or seg faults -15
+      Program requires tweaking to run -5
+      Program reports incorrect events -10
+      Program does not print leading zeroes for time -2
+
+
+   B. Test #2. Compiling with sched_test.cpp
+      No errors
+      Program does not compile or run even after tweaking -20
+      Wrong output for sched.h data -3
+      Invalid sort or schedule with sched.h data -3
+      Wrong output for TEST1 data -3 
+      Invalid sort or schedule with TEST1 data -3
+      Wrong output for TEST2 data -3
+      Invalid sort or schedule with TEST2 data -3
+
+
+   C. Test #3. Compiling with proj1test1.cpp
+      No errors
+      Program does not compile or run even after tweaking -12
+      endTime array is not sorted -5 
+      Scheduled wrong/no output/seg faults  -5
+
+
+   D. Test #4. Compiling with proj1test2.cpp
+      No errors
+      Program does not compile or run even after tweaking -12
+      endTime array is not sorted -5 
+      Scheduled wrong/no output/seg faults  -5
+
+
+   Other errors (specify):
+
+
+
+-----------------------------------------------------------------
+
+IV. Program Design and Structure
+
+    Program design and structure are reasonable 
+
+    Superfluous #includes  -1
+    
+    No function prototypes for helper functions  -1
+
+    Poor loop structure  -1 to -3
+       Comment:
+
+
+-----------------------------------------------------------------
+
+IV. Coding Standards
+
+   Program has good indentation, comments and choice of variable names
+
+   Poor/inconsistent indentation scheme  -2
+
+   In-line comments are:
+      terse and not meaningful -3
+      non-existent -5
+
+   Poor choice of variable names -1
+      Comment:
+
+   Uses "magic numbers" [ WARNING THIS TIME ]
+
+
+-----------------------------------------------------------------
